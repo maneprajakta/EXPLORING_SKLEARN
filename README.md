@@ -18,8 +18,8 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 
 ##### Day 1 :
 - Sklearn Modelling Process:
-  - Loading ,splitting data
-  - Training Model
-  - Model Persistence
-  - Preprocessing the Dataset(Binarisation,Mean Removal ,Scaling,Noemalisation(L1,L2 normalisation))
+  1.Loading ,splitting data
+  2.Training Model
+  3.Model Persistence
+  4.Preprocessing the Dataset(Binarisation,Mean Removal ,Scaling,Noemalisation(L1,L2 normalisation))
 
