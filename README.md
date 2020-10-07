@@ -22,4 +22,8 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 3. Model Persistence
 4. Preprocessing the Dataset(Binarisation,Mean Removal ,Scaling,Noemalisation(L1,L2 normalisation))
 ##### Day 2:Linear Modelling :
-1.Linear Regression
+1. Linear Regression
+ ( logit or MaxEnt Classifier)
+3. Lasso 
+4. Ridge
+5. ElasticNet
