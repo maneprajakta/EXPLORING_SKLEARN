@@ -1,6 +1,7 @@
 # 21-DAYS-PROGRAMMING-CHALLENGE-ACES
-Exploring sklearn!
-
+```diff
+@@ Exploring sklearn! @@
+```
 #### Bit intro 
 A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-learn
 
@@ -24,6 +25,8 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 ##### Day 2:Linear Modelling :
 1. Linear Regression
  ( logit or MaxEnt Classifier)
+##### Day 3:Linear Modelling :
+2. Logistic Regression
 3. Lasso 
 4. Ridge
 5. ElasticNet
