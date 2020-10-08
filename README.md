@@ -30,3 +30,7 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 3. Lasso 
 4. Ridge
 5. ElasticNet
+##### Day 4:Gradient Descent Algorithm
+1. Batch Gradient Descent
+2. Stochastic  Gradient Descent
+3. Mini Batch Gradient Descent
