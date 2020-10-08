@@ -16,7 +16,7 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 6. Feature Extraction
 7. Feature Selection
 8. Open Source 
-
+---
 ##### Day 1 :Sklearn Modelling Process:
 1. Loading ,splitting data
 2. Training Model
