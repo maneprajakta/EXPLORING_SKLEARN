@@ -38,3 +38,5 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 2. Stochastic  Gradient Descent
 3. Mini Batch Gradient Descent
 ---
+##### 💠 Day 5:Suppot Vector Machine
+1. SVM
