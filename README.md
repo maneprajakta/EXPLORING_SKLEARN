@@ -42,5 +42,5 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 1. SVM
 ---
 ##### 💠 Day 6:KNN Algorithm
-1.KNN as Classifier
-2.KNN as Regressor
+1. KNN as Classifier
+2. KNN as Regressor
