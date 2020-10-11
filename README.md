@@ -44,3 +44,5 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 ##### 💠 Day 6:KNN Algorithm
 1. KNN as Classifier
 2. KNN as Regressor
+##### 💠 Day 7:Metrics and scoring
+(Not did much read a bit theory)
