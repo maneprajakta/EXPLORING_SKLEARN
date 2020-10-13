@@ -47,6 +47,16 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 ---
 ##### 💠 Day 7:Metrics and scoring
 (Not did much read a bit theory)
+1. Confusion_matrix
+2. Accuracy 
+3. Precision
+4. Recall or Sensitivity
+5. Specificity
+---
 ##### 💠 Day 8:PCA
 1. Incremental PCA
 2. Kernel PCA
+---
+##### 💠 Day 9:Tree
+1. Decision Tree (ID3 iterative dichotomiser 3)
+2. Random Forest
