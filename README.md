@@ -60,3 +60,6 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 ##### 💠 Day 9:Tree
 1. Decision Tree (ID3 iterative dichotomiser 3)
 2. Random Forest
+---
+##### 💠 Day 10:Naive Bais
+1. Gaussian  Naive Bayes
