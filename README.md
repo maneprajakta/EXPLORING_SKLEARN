@@ -63,3 +63,6 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 ---
 ##### 💠 Day 10:Naive Bais
 1. Gaussian  Naive Bayes
+---
+##### 💠 Day 11:Dimension Reduction
+1. Principal Component Analysis(PCA)
