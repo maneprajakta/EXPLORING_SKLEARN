@@ -66,3 +66,6 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 ---
 ##### 💠 Day 11:Dimension Reduction
 1. Principal Component Analysis(PCA)
+##### 💠 Day 12:Dimension Reduction
+2. Singular Vector Decomposition(SVD)
+[not did much today kam hai kafi!]
