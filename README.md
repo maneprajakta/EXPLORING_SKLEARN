@@ -72,4 +72,4 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 ---
 ##### 💠 Day 13:Ensemble methods
 1. Voting Classifier
- Soft Voting + with GridSearchCV
+<br>Soft Voting + with GridSearchCV
