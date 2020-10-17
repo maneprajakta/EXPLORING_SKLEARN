@@ -69,3 +69,7 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 ##### 💠 Day 12:Dimension Reduction
 2. Singular Vector Decomposition(SVD)
 [not did much today kam hai kafi!]
+---
+##### 💠 Day 13:Ensemble methods
+1. Voting Classifier
+ Soft Voting + with GridSearchCV
