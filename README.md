@@ -77,3 +77,9 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 ##### 💠 Day 14:Gradient Boosting
 <br>Read theory about all
 1. GBA
+##### 💠 Day 15:DATA PROCESSING
+Steps involved in data processing
+1. Treating up missing values
+2. Treating outliners
+3. Dimentionality Reduction
+4. Variable Transformation and Feature Engineering
