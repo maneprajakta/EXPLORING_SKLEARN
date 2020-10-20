@@ -76,7 +76,7 @@ A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-lear
 <br>Soft Voting + with GridSearchCV
 ---
 ##### 💠 Day 14:Gradient Boosting
-<br>Read theory about all
+Read theory about all
 1. GBA
 ---
 ##### 💠 Day 15:DATA PROCESSING
@@ -85,3 +85,6 @@ Steps involved in data processing
 2. Treating outliners
 3. Dimentionality Reduction
 4. Variable Transformation and Feature Engineering
+---
+##### 💠 Day 16:Recommender System
+1. Simple REcommende using IBM formula
