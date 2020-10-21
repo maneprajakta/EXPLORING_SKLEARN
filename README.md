@@ -88,3 +88,6 @@ Steps involved in data processing
 ---
 ##### 💠 Day 16:Recommender System
 1. Simple REcommende using IBM formula
+---
+##### 💠 Day 17:Recommender System
+1. Content based Recommendation(tfid)
