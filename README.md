@@ -93,3 +93,7 @@ Steps involved in data processing
 1. Content based Recommendation(tfid)
 ---
 ##### 💠 Day 18:Mean shift Clustering Algorithm
+---
+##### 💠 Day 19: Not a good day .Not having laptop with me😥
+<br>signed in through phone will read about different types of regression.
+<br> no code today 😔
