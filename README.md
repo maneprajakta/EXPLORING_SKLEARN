@@ -102,4 +102,4 @@ no code today 😔.
 ##### 💠 Day 20: Pipeline 
 1. How to create one and use.
 <br>Laptop didn't come today.
-<br>No I am pro at using GitHub on phone.💁
+<br>Now I am pro at using GitHub on phone.💁
