@@ -94,8 +94,8 @@ Steps involved in data processing
 ---
 ##### 💠 Day 18:Mean shift Clustering Algorithm
 ---
-##### 💠 Day 19: Not a good day. 
-<br>Not having laptop with me😥
+##### 💠 Day 19: Not a good day
+1. Not having laptop with me😥
 signed in through phone will read about different types of regression.
 no code today 😔.
 ---
