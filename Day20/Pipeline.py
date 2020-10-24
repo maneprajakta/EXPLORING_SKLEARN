@@ -36,3 +36,4 @@ pipe.fit(X_train,y_train)
 print(pipe.score(X_test, y_test)
 
 #also read some bit manipulation tricks 
+#have written this in notes hope it does show error when compiled on lp
