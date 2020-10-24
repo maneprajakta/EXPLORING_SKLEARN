@@ -97,6 +97,7 @@ Steps involved in data processing
 ##### 💠 Day 19: Not a good day .Not having laptop with me😥
 <br>signed in through phone will read about different types of regression.
 <br> no code today 😔
+---
 ##### 💠 Day 20: Pipeline 
 1. How to create one and use.
 <br>Laptop didn't come today.
