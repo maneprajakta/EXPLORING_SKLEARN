@@ -1,0 +1,36 @@
+Ok..
+So come across almost 16 types of Regression.😅
+Summerising them:
+1.Linear Regression:
+It is simplest form of regression.Used when dependent variable is continuous in nature.
+2.Polynomial Regression:
+Multiple features.
+3.Logistic Regression:
+Dependent variable binary in nature 0,1.
+4.Quantile Regression:
+Used when high skewness in data.
+5.Ridge Regression:
+Make use of L2 regularisation .
+Sun of square of coffee
+6.Lasso Regression:
+Lasso stands for Least Absolute Shrinkage and Selection Operator.
+It makes use of L1 regularization.
+7.Elastic net Regression:
+Combination of both ridge and lasso.
+8.Principal Components Regression.
+The most common features of PCR are:
+Dimensionality Reduction
+Removal of multicollinearity
+Not yet read
+9.Partial least square Regression
+10.support vector regression
+11.ordinal Regression
+12.poisson regression
+13.-ve bynomial Regression
+14.quasi Poisson regression
+15.Cox Regression
+
+
+Link for same: https://www.listendata.com/2018/03/regression-analysis.html?m=1#Linear-Regression
+
+
