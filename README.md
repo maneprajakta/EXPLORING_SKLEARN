@@ -103,3 +103,10 @@ no code today 😔.
 1. How to create one and use.
 <br>Laptop didn't come today.
 <br>Now I am pro at using GitHub on phone.💁
+---
+##### 💠 Day 21 Anomaly detection
+---
+#RESOUCES 
+[Tutorial](https://www.tutorialspoint.com/scikit_learn/index.htm)
+
+Happy to complete this Chanllenge and for sure will continue Learning! :blush:
