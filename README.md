@@ -106,7 +106,7 @@ no code today 😔.
 ---
 ##### 💠 Day 21 Anomaly detection
 ---
-#RESOUCES 
+# RESOUCES 
 [Tutorial](https://www.tutorialspoint.com/scikit_learn/index.htm)
 
 Happy to complete this Chanllenge and for sure will continue Learning! :blush:
