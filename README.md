@@ -2,7 +2,7 @@
 ```diff
 @@ Exploring sklearn! @@
 ```
-#### Bit intro 
+#### Bit intro About library
 A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-learn
 
 #### Installation
