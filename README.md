@@ -3,7 +3,7 @@
 @@ Exploring sklearn! @@
 ```
 #### Bit intro About library
-A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-learn
+A python library built upon NumPy ,SciPy and Matplotlib orignal name scikit-learn.
 
 #### Installation
 ```pip install scikit-learn```
